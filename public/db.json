@@ -1,0 +1,87 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "sku": 111,
+            "title": "Banjo",
+            "description": "Don't get into a duel with this one",
+            "cursed": "No",
+            "price": 15,
+            "isFreeShipping": true
+        },
+        {
+            "id": 2,
+            "sku": 112,
+            "title": "Red",
+            "description": "Like Hot Wheels",
+            "cursed": "No",
+            "price": 14.99,
+            "isFreeShipping": true
+        },
+        {
+            "id": 3,
+            "sku": 113,
+            "title": "Black and White",
+            "description": "The Jacks",
+            "cursed": "No",
+            "price": 14.99,
+            "isFreeShipping": true
+        },
+        {
+            "id": 4,
+            "sku": 114,
+            "title": "Half Brown",
+            "description": "And another half",
+            "cursed": "No",
+            "price": 25.99,
+            "isFreeShipping": false
+        },
+        {
+            "id": 5,
+            "sku": 115,
+            "title": "Big Green",
+            "description": "Larger than it looks",
+            "cursed": "No",
+            "price": 10.99,
+            "isFreeShipping": false
+        },
+        {
+            "id": 6,
+            "sku": 116,
+            "title": "Black Devil",
+            "description": "Potentially a Golden Fiddle",
+            "cursed": "Yes",
+            "price": 49.99,
+            "isFreeShipping": false
+        },
+        {
+            "id": 7,
+            "sku": 117,
+            "title": "The Other Half",
+            "description": "It's pretty nice",
+            "cursed": "No",
+            "style": "Preto com listras brancas",
+            "price": 22.50,
+            "isFreeShipping": true
+        },
+        {
+            "id": 8,
+            "sku": 118,
+            "title": "Animated Guitar",
+            "description": "Beware Mimics",
+            "cursed": "Yes",
+            "style": "Azul escuro",
+            "price": 18.70,
+            "isFreeShipping": false
+        },
+        {
+            "id": 9,
+            "sku": 119,
+            "title": "Flaming Hot",
+            "description": "Man I love Cheetos",
+            "cursed": "Yes",
+            "price": 134.90,
+            "isFreeShipping": true
+        }
+    ]
+}
